@@ -1,0 +1,4 @@
+name: Test
+version: '${project.version}'
+main: net.teamuni.test.Test
+api-version: 1.17
